@@ -1,4 +1,4 @@
 print("Hello")
-Print("Successfully cloned to the local repository")
+print("Successfully cloned to the local repository")
 
-print("Successfully staged and committted")
+print("Successfully staged and committed")
